@@ -5,7 +5,7 @@ tooling end to end. Based in Scotland. I publish under the alias **Eagre**.
 
 I design the architecture, break the work into focused streams, build it using AI tools (Claude Code primarily), and review every output. Everything here was built that way, solo.
 
-**[eagredev.github.io](https://eagredev.github.io)** — my portfolio, with all three projects below running as interactive demos you can edit in the browser.
+**[eagre.dev](https://eagre.dev)** — my portfolio, with all three projects below running as interactive demos you can edit in the browser.
 
 ### What I've built
 
